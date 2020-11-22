@@ -14,8 +14,17 @@
 .reputation .text span {
     color: #18b6ff;
 }
+.question{
+    padding-right: 10px;
+}
 .question button.btn {
     text-decoration: none;
     color: black;
     font-weight: bold !important;
+}
+.question .fas {
+    color: black !important;
+    position: absolute;
+    right: 0;
+    padding-right: 20px;
 }
